@@ -1,7 +1,12 @@
 ## COMP551Project4
-Repository for Project 4
+Repository for Project 4, reproducibility.
+This codebase reproduces some of the results from:
+"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale."
+This paper can be found at:
+https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1
+or on the ArXiV at: https://arxiv.org/pdf/2010.11929v2.pdf
 
-The main repository from the paper can be found at https://github.com/google-research/vision_transformer. 
+The main repository provided by the paper itself can be found at https://github.com/google-research/vision_transformer. 
 Every code snippet contained in this repository is altered directly from this original (master) branch.
 
 # Table 1
