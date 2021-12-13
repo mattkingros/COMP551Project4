@@ -1,7 +1,7 @@
 ## COMP551Project4
 Repository for Project 4, reproducibility.
 This can be found on GitHub at https://github.com/mattkingros/COMP551Project4
-(This is read the best place to execute code from)
+(This is the best place to execute code from, as github has built in google colab integration)
 
 
 This codebase reproduces some of the results from:
