@@ -1,5 +1,9 @@
 ## COMP551Project4
 Repository for Project 4, reproducibility.
+This can be found on GitHub at https://github.com/mattkingros/COMP551Project4
+(This is likely much easier to read the best place to execute code from)
+
+
 This codebase reproduces some of the results from:
 "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale."
 This paper can be found at:
