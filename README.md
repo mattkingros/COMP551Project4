@@ -38,4 +38,6 @@ where we have loaded in our own models of interest.
 # Table 2
 
 The code used to generate table 2 is:
--
+- fine_tuning_ViT.ipynb
+
+By changing 'dataset' and 'model_name' variables, the results in Table 2 can be reproduced.
