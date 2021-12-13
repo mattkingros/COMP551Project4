@@ -41,3 +41,8 @@ The code used to generate table 2 is:
 - fine_tuning_ViT.ipynb
 
 By changing 'dataset' and 'model_name' variables, the results in Table 2 can be reproduced.
+dataset:
+- cifar10
+- cifar100
+- oxford_flowers102
+- oxford_iiit_pet
