@@ -22,7 +22,9 @@ The code used to generate the attention heatmaps is:
 
 - Attention maps
 
-Which can be run directly in colab.
+Which can be run directly in colab. This is altered from a nice tutorial on ViT's found here:
+https://colab.research.google.com/github/hirotomusiker/schwert_colab_data_storage/blob/master/notebook/Vision_Transformer_Tutorial.ipynb
+where we have loaded in our own models of interest.
 
 # Table 2
 
